@@ -1,7 +1,7 @@
 # NOTES
 Some annotations about my adventures in tech world.
 
-## Working with Postgres and PgAdmin4 in docker (cli)
+## Working with Postgres and PgAdmin4 in docker (CLI 👨‍💻)
 
 ### Postgres instance creating
 - docker run -p 5432:5432 --name pg -e POSTGRES_PASSWORD=password postgres
