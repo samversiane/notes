@@ -16,7 +16,7 @@
  - Adapta
 
 ## JAVA
- - Injeção de depência
+ - Injeção de dependência
  
  - Inversão de controle
 
