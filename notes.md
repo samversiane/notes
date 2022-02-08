@@ -2,6 +2,34 @@
 
 ## LÓGICA DE PROGRAMAÇÂO
 
+ - Lógica booleana
+    - Criada por George Boole
+    - É um sistema numérico binário (baseado em 0 e 1) aonde zero representa falso e um representa verdadeiro.
+    - Para tornar esse sistema numérico útil também criou as portas lógicas(AND, OR, NOT, NAND, NOR, XOR, XNOR).   
+
+ - Algoritmo
+    - Algoritmos são sequências de passos que seguimos com a intenção de atingir um objetivo.
+    - Ex: atravessar uma rua, fazer um bolo ou trocar uma lâmpada.
+
+ - Variáveis e constantes
+    - Variáveis são usadas para armazenar dados na mémoria (RAM) de um pc.
+    - Variáveis podem variar durante a execução do código.
+    - Constantes são fixas.
+
+ - Tipologia de dados 
+    - Texto/String
+    - Inteiro/Integer
+    - Real/Float/Double
+    - Lógico/Boolean
+  
+ - Estrutura de seleção
+   - if/else
+   - switch
+
+- Estrutura de repetição
+   - while/do-while
+   - for
+
 ## POO
 
 ## DESIGN PATTERN
