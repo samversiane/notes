@@ -11,15 +11,21 @@
     - Dependency Inversion: dependa de abstrações e não de implementações.
     - https://medium.com/desenvolvendo-com-paixao/o-que-%C3%A9-solid-o-guia-completo-para-voc%C3%AA-entender-os-5-princ%C3%ADpios-da-poo-2b937b3fc530
 
+- Injeção de dependência
+    - É um design pattern que faz com que uma classe seja independente de suas dependências. Está fortemente ligado ao SOLID ( principalmente o S e D) e o Design Pattern "Strategy".
+    - Construtctor injection: faz a injeção de depêndencia através do construtor.
+    - Setter Injection: com as propiedades da calsse usando setter.
+    - Method/Interface Injection: onde a injeção a classe do cliente implementa uma interface que declara um método para fornecer a dependência, e o injetor usa essa interface para fornecer essa dependência a classe cliente.
+
+ - Inversão de controle
+    - É um termo amplo, onde a responsabilidade de informar a implementação a ser utilizada deixa de ser da classe, e passa a ser do consumidor da classe.
+
  - Factory Method
 
  - Adapta
-
-## JAVA
- - Injeção de dependência
  
- - Inversão de controle
-
+## JAVA
+ 
  - Modificadores de acesso
     - Existem somente 3 modificadores: private, protected e public.
     - Existem 4 níveis de visibilidade: private, default, protected e public.
