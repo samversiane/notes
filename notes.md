@@ -13,8 +13,8 @@
 
 - Injeção de dependência
     - É um design pattern que faz com que uma classe seja independente de suas dependências. Está fortemente ligado ao SOLID ( principalmente o S e D) e o Design Pattern "Strategy".
-    - Construtctor injection: faz a injeção de depêndencia através do construtor.
-    - Setter Injection: com as propiedades da calsse usando setter.
+    - Constructor injection: faz a injeção de depêndencia através do construtor.
+    - Setter Injection: com as propiedades da classe usando setter.
     - Method/Interface Injection: onde a injeção a classe do cliente implementa uma interface que declara um método para fornecer a dependência, e o injetor usa essa interface para fornecer essa dependência a classe cliente.
 
  - Inversão de controle
