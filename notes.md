@@ -11,8 +11,16 @@
     - Dependency Inversion: dependa de abstrações e não de implementações.
  - Factory Method
  - Adapta
+
 ## JAVA
  - Injeção de depência
  - Inversão de controle
- - Public, protected e private
+ - Modificadores de acesso
+    - Existem somente 3 modificadores: private, protected e public.
+    - Existem 4 níveis de visibilidade: private, default, protected e public.
+    - Public: permite acesso a qualquer código externo a classe.
+    - Protected: permite acesso às classes do mesmo pacote e classes filhas, mas proíbe a qualquer outro acesso externo.
+    - Default: (ausência de modificadores) permite acesso a todas as classes que estiverem no mesmo pacote que a classe que possui o atributo.
+    - Private: proíbe qualquer acesso externo à própria classe, inclusive das classes filhas.
+
 ## SPRING
