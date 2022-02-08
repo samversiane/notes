@@ -1,5 +1,7 @@
 # Notas
 
+## LÓGICA DE PROGRAMAÇÂO
+
 ## POO
 
 ## DESIGN PATTERN
