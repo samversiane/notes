@@ -1,6 +1,6 @@
 # Notas
 
-## LÓGICA DE PROGRAMAÇÂO
+## LÓGICA DE PROGRAMAÇÃO
 
  - Lógica booleana
     - Criada por George Boole
@@ -31,6 +31,13 @@
    - for
 
 ## POO
+ - Classes e objetos
+    - uma classe é um conjunto de características e comportamentos que definem o conjunto de objetos pertencentes à essa classe.
+    - um objeto é a instanciação de uma classe
+ - Abstração
+ - Encapsulamento
+ - Herança
+ - Polimorfismo
 
 ## DESIGN PATTERN
  - SOLID
